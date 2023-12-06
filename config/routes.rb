@@ -13,7 +13,6 @@ Rails.application.routes.draw do
     end
   end
 
-  root "api/v1/greetings#index"
   # Defines the root path route ("/")
   # root "posts#index"
 end
